@@ -1,6 +1,6 @@
 # An Evaluation of Lightweight LLM Approaches to Enhancing Pre-Consultation Patient Questioning
 
-Full write-ups and presentations in the WriteUp folder
+Full write-ups and presentations in the WriteUps folder
 
 ## Introduction
 
